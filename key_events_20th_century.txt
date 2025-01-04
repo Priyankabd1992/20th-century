@@ -1,0 +1,30 @@
+import requests
+from bs4 import BeautifulSoup
+
+# URL of the page to scrape
+url = 'https://example.com/key-events-20th-century'
+
+# Send a request to fetch the content of the page
+response = requests.get(url)
+
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse the HTML content using BeautifulSoup
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Find the elements that contain the key events
+    events = soup.find_all('div', class_='event')  # Adjust the tag and class based on the page structure
+    
+    # Extract and print the event details
+    for event in events:
+        date = event.find('span', class_='date').text.strip()  # Adjust the tag and class
+        title = event.find('h3', class_='title').text.strip()  # Adjust the tag and class
+        description = event.find('p', class_='description').text.strip()  # Adjust the tag and class
+        
+        print(f"Date: {date}")
+        print(f"Title: {title}")
+        print(f"Description: {description}")
+        print('-' * 50)
+
+else:
+    print(f"Failed to retrieve the page. Status code: {response.status_code}")
