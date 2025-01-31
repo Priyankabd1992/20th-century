@@ -1,0 +1,141 @@
+Entity 1,Entity 2
+France,Austria
+France,Hungary
+Austria,Hungary
+Germany,Russia
+Germany,Italy
+Germany,Germany
+Austria,Austria
+Austria,Germany
+Austria,Germany
+France,Poland
+France,Germany
+France,Poland
+France,Poland
+Germany,Poland
+Germany,Poland
+Poland,Poland
+Poland,Germany
+Estonia,Latvia
+Estonia,Lithuania
+Estonia,Finland
+Latvia,Lithuania
+Latvia,Finland
+Lithuania,Finland
+Germany,Poland
+Netherlands,Luxembourg
+Denmark,Norway
+Norway,Denmark
+Norway,Sweden
+Norway,Germany
+Norway,France
+Denmark,Sweden
+Denmark,Germany
+Denmark,France
+Sweden,Germany
+Sweden,France
+Germany,France
+Greece,Albania
+Greece,Greece
+Albania,Greece
+Ukraine,Belarus
+Libya,Egypt
+Japan,Germany
+Japan,Russia
+Germany,Italy
+Morocco,Algeria
+Italy,Italy
+Poland,Germany
+Japan,China
+Japan,China
+Japan,Japan
+Japan,Germany
+Japan,Japan
+Japan,Germany
+Japan,Japan
+Germany,Japan
+Japan,Thailand
+Japan,Singapore
+Thailand,Singapore
+Japan,Philippines
+Solomon Islands,Japan
+Japan,India
+Japan,Japan
+India,Japan
+Japan,China
+Russia,France
+Russia,China
+Russia,India
+Russia,Pakistan
+Russia,Israel
+Russia,South Africa
+Russia,Israel
+France,China
+France,India
+France,Pakistan
+France,Israel
+France,South Africa
+France,Israel
+China,India
+China,Pakistan
+China,Israel
+China,South Africa
+China,Israel
+India,Pakistan
+India,Israel
+India,South Africa
+India,Israel
+Pakistan,Israel
+Pakistan,South Africa
+Pakistan,Israel
+Israel,South Africa
+Israel,Israel
+South Africa,Israel
+Libya,Iran
+Germany,France
+India,India
+India,Pakistan
+India,Pakistan
+Laos,Cambodia
+Laos,Kenya
+Laos,Ghana
+Cambodia,Kenya
+Cambodia,Ghana
+Kenya,Ghana
+Estonia,Lithuania
+Estonia,Finland
+Estonia,Romania
+Lithuania,Finland
+Lithuania,Romania
+Finland,Romania
+Albania,Bulgaria
+Albania,Poland
+Albania,Romania
+Albania,Hungary
+Bulgaria,Poland
+Bulgaria,Romania
+Bulgaria,Hungary
+Poland,Romania
+Poland,Hungary
+Romania,Hungary
+Mongolia,China
+Mongolia,North Korea
+Mongolia,Cuba
+China,North Korea
+China,Cuba
+North Korea,Cuba
+North Korea,United States
+North Korea,South Korea
+United States,South Korea
+South Korea,Canada
+South Korea,Australia
+Canada,Australia
+Vietnam,Korea
+Cuba,Cuba
+Russia,Japan
+China,India
+Finland,Germany
+Germany,Norway
+Italy,Japan
+Iran,Iran
+Romania,Russia

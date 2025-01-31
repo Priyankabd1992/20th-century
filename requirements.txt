@@ -1,6 +1,4 @@
-pandas
-requests
-beautifulsoup4
-selenium
-webdriver_manager
-matplotlib
+spacy 
+networkx 
+matplotlib 
+scipy 
